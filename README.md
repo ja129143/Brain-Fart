@@ -11,8 +11,6 @@ Moderation:
 !+purge <amount (Max 99)> - Deleets the specified amount of messages
 !+prune - Kicks inactive users
 
-Entertainment:
-
 Music:
 !+play <song name or url> - Plays the song in the voice channel your in
 !+pause - Pauses playback (Requires MANAGE_GUILD)

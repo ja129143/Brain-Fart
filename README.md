@@ -2,7 +2,7 @@
 
 _Commands_
 
-Moderation:
+Moderation:\n
 !+kick <user> - Kicks the specified user
 !+ban <user> - Bans the specified user
 !+unban <users id> - Unbans the user
